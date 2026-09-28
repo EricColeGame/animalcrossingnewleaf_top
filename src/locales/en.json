@@ -9,7 +9,15 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "characters": "Characters",
+    "items": "Items",
+    "mechanics": "Mechanics",
+    "maps": "Maps",
+    "codes": "Codes",
+    "customization": "Customization",
+    "community": "Community"
   },
   "home": {
     "meta": {
@@ -417,7 +425,38 @@
       "secondary": "Play on Nintendo 3DS"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Animal Crossing New Leaf Guide",
+    "overviewDescription": "Start town life the right way with beginner walkthroughs, daily tips, unlock paths, and appearance advice for Animal Crossing: New Leaf."
+  },
+  "characters": {
+    "overviewTitle": "Animal Crossing New Leaf Villagers",
+    "overviewDescription": "Meet every villager, compare personality types, and find your favorite neighbors with our Animal Crossing: New Leaf character guides."
+  },
+  "items": {
+    "overviewTitle": "Animal Crossing New Leaf Items",
+    "overviewDescription": "Browse furniture sets, golden tools, and collectibles with our Animal Crossing: New Leaf item and furniture guides."
+  },
+  "mechanics": {
+    "overviewTitle": "Animal Crossing New Leaf Mechanics",
+    "overviewDescription": "Master fishing, bug catching, diving, turnips, flower breeding, and ordinances with our Animal Crossing: New Leaf mechanics guides."
+  },
+  "maps": {
+    "overviewTitle": "Animal Crossing New Leaf Maps",
+    "overviewDescription": "Plan the perfect town with layout comparisons, house exteriors, and Dream Suite tips for Animal Crossing: New Leaf."
+  },
+  "codes": {
+    "overviewTitle": "Animal Crossing New Leaf Codes",
+    "overviewDescription": "Find item codes and learn how to redeem them in Animal Crossing: New Leaf."
+  },
+  "customization": {
+    "overviewTitle": "Animal Crossing New Leaf Customization",
+    "overviewDescription": "Style your mayor with hair, face, and outfit guides plus QR codes and path designs for Animal Crossing: New Leaf."
+  },
+  "community": {
+    "overviewTitle": "Animal Crossing New Leaf Community",
+    "overviewDescription": "Join the Animal Crossing: New Leaf community on Reddit and Discord to trade, share towns, and get help."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +487,9 @@
     "officialYoutube": "Nintendo Official YouTube",
     "vvBuilder": "Nookipedia (AC Wiki)",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "characterGuides": "Villager Guides",
+    "itemGuides": "Item Guides",
+    "mechanicGuides": "Game Mechanics",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

@@ -1,0 +1,118 @@
+export const metadata = {
+  title: "Codes d'objets Animal Crossing New Leaf : Guide complet des ID d'objets, listes et utilisation sécurisée",
+  description: "Apprenez comment fonctionnent les codes d'objets Animal Crossing New Leaf, d'où viennent les listes d'ID d'objets et comment les utiliser sans corrompre la sauvegarde de votre ville.",
+  category: "codes",
+  date: "2026-09-29",
+}
+
+## Que sont les codes d'objets Animal Crossing New Leaf ?
+
+Les codes d'objets Animal Crossing New Leaf sont les numéros en coulisses qui identifient chaque meuble, vêtement, papier peint et outil du jeu. Si vous vous êtes déjà demandé comment des joueurs font apparaître un objet rare, réorganisent la carte d'une ville ou restaurent une entrée de catalogue perdue, la réponse commence presque toujours par un ID d'objet. Comprendre les codes d'objets Animal Crossing New Leaf est important, car ils constituent la base de presque tous les projets de modification de sauvegarde — et mal les utiliser est le moyen le plus rapide d'endommager une ville que vous avez bâtie pendant des années.
+
+Malgré leur nom, ce ne sont pas des mots de passe secrets que l'on saisit dans un menu. Chaque objet que le jeu peut charger — une chaise, une chemise, une chanson, un papier peint — est stocké dans le fichier de sauvegarde sous forme d'identifiant numérique. Le jeu lit ce nombre et décide quel modèle, quelle icône et quel comportement afficher.
+
+Quand la communauté parle de « codes d'objets », elle désigne généralement ces identifiants ainsi que les indicateurs qui décrivent le comportement d'un objet. Cette distinction est importante. Rien dans la version commerciale de New Leaf n'accepte un code saisi au clavier. Ces nombres ne sont utiles que via des éditeurs de sauvegarde, des outils de mémoire ou l'édition hexadécimale manuelle sur une console modifiée.
+
+Pour cette raison, la valeur pratique des codes d'objets Animal Crossing New Leaf réside surtout dans la recherche, la restauration et les projets de catalogue — pas dans le jeu quotidien.
+
+| Terme | Ce que c'est réellement | Utilisation typique |
+|---|---|---|
+| ID d'objet | Une valeur numérique pointant vers une entrée d'objet spécifique | Placer, remplacer ou restaurer un objet |
+| Indicateurs d'objet | Valeurs binaires décrivant le comportement d'un objet | Contrôler si un objet peut être réorganisé, vendu ou placé |
+| ID d'animation / d'émotion | Valeurs liées aux animations et réactions des personnages | Déclencher ou débloquer des émotes |
+| ID d'apparence | Valeurs de coiffure, couleur de cheveux, style des yeux et couleur des yeux | Modifier l'apparence d'un personnage |
+| ID de monde | Valeurs d'acre, de bâtiment, de pièce et d'extérieur de maison | Modification de la carte et de l'agencement de la ville |
+| ID système | Valeurs d'interface, de particules et de pays | Débogage et ajustements cosmétiques |
+
+## Comment les listes d'ID d'objets ACNL sont organisées
+
+Un ensemble complet de codes d'objets Animal Crossing New Leaf est bien plus vaste que ce que la plupart des joueurs imaginent. Les pages de référence maintenues par la communauté trient les données par familles afin que les éditeurs puissent trouver une valeur rapidement au lieu de faire défiler un seul fichier gigantesque.
+
+Selon la structure utilisée par le projet de liste d'ID ACNL largement partagé, les données se répartissent en entrées d'objets, indicateurs d'objet, valeurs d'animation et d'émotion, valeurs d'apparence, et un groupe « autres » fourre-tout couvrant les extérieurs de maison, les bâtiments, les particules, les valeurs de pays et de pièce, les éléments d'interface et les acres. Chaque catégorie peut contenir des centaines d'entrées, et certaines catégories n'ont de sens que si vous savez déjà comment le jeu stocke les données de la ville.
+
+### ID d'objet et indicateurs d'objet
+
+Les ID d'objet sont l'attraction principale. Les indicateurs les accompagnent et décident discrètement si votre objet nouvellement placé peut être jeté, vendu, envoyé par courrier ou stocké. Les retours de la communauté montrent régulièrement que des indicateurs inadaptés sont la cause de la plupart des plaintes du type « pourquoi mon objet est-il bloqué ? ».
+
+### Valeurs d'animation, d'émotion et d'apparence
+
+Ce groupe couvre les réactions, les animations de cinématiques, les coiffures, les couleurs de cheveux, les styles des yeux et les couleurs des yeux. L'expérience des joueurs suggère que les valeurs d'apparence sont les plus risquées à modifier sans précaution, car une valeur qui semble correcte dans une liste peut ne pas correspondre à l'état de personnage attendu par le jeu.
+
+### Valeurs de monde et de système
+
+Les ID d'acre, ID de bâtiment, ID de pièce et ID d'extérieur de maison sont utilisés pour les projets de carte et de ville. Ce sont les valeurs les plus susceptibles de produire des résultats spectaculaires, et parfois destructeurs.
+
+| Groupe de catégories | Exemples d'entrées | Difficulté | Qui l'utilise |
+|---|---|---|---|
+| Objet | Meubles, vêtements, outils, musique, papier peint, revêtements de sol | Faible à moyenne | Restauration de catalogue, apparition d'objets |
+| Indicateurs d'objet | Propriétés de réorganisation, vente, placement, emballage | Moyenne | Éditeurs avancés |
+| Animation / émotion | Réactions, cinématiques, valeurs d'entité serpent | Moyenne | Projets de cinématiques et d'émotes |
+| Apparence | Coiffures, couleurs de cheveux, styles des yeux, couleurs des yeux | Moyenne à élevée | Personnalisation de personnage |
+| Monde et système | Acres, bâtiments, pièces, extérieurs, particules, interface | Élevée | Modification de carte, débogage |
+
+## Où les joueurs trouvent des listes fiables de codes d'objets
+
+Parce que les codes d'objets Animal Crossing New Leaf sont documentés par les fans plutôt que publiés par le développeur, la qualité varie énormément. L'approche la plus sûre consiste à recouper au moins deux sources avant de toucher à un fichier de sauvegarde.
+
+| Type de source | Points forts | Points de vigilance |
+|---|---|---|
+| Dépôts de listes d'ID communautaires | Exhaustifs et triés par catégorie | Peuvent être en retard sur la mise à jour Welcome amiibo |
+| Wikis de fans | Bonnes explications et contexte | Exactitude des ID inégale |
+| Communautés Discord | Relecture par les pairs et réponses rapides | Les conseils varient selon la version du jeu |
+| Catalogues intégrés d'éditeurs de sauvegarde | Navigables et prêts à l'emploi | Limités à ce que l'outil prend en charge |
+
+Pour les informations générales sur le jeu, le contexte et les listes d'objets légitimes, [le wiki Animal Crossing: New Leaf d'IGN](https://www.ign.com/wikis/animal-crossing-new-leaf) est une référence fiable d'un grand média spécialisé dans le jeu vidéo et un bon point de départ avant de plonger dans les données brutes d'ID.
+
+Une habitude utile : lorsque vous trouvez une liste, vérifiez la date de sa dernière mise à jour et si elle mentionne explicitement le contenu Welcome amiibo. Une liste antérieure à cette mise à jour aura des entrées manquantes, et ce sont ces entrées manquantes qui poussent les joueurs à deviner.
+
+## Utiliser les codes d'objets en toute sécurité : une liste de vérification étape par étape
+
+Une fois que vous disposez d'une liste fonctionnelle de codes d'objets Animal Crossing New Leaf, le processus repose moins sur les codes eux-mêmes que sur la discipline. La plupart des catastrophes sont évitables avec une courte routine.
+
+| Étape | Action | Pourquoi c'est important |
+|---|---|---|
+| 1 | Sauvegardez votre fichier de sauvegarde à deux endroits distincts | Une seule sauvegarde peut être écrasée par erreur |
+| 2 | Confirmez la version et la région de votre jeu | Les ID et les décalages diffèrent selon les versions |
+| 3 | Faites correspondre l'ID à la bonne catégorie | Un ID de meuble dans un emplacement d'acre produit des données corrompues |
+| 4 | Copiez les indicateurs d'objet avec l'ID | Évite les objets invendables ou impossibles à déposer |
+| 5 | Modifiez une valeur à la fois | Isole la cause si quelque chose casse |
+| 6 | Lancez le jeu, testez, puis sauvegardez normalement | Confirme la modification avant de la valider |
+
+Quelques notes pratiques issues de l'expérience des joueurs :
+
+- Éteignez complètement la console avant de modifier. Modifier pendant que le jeu tourne est une cause fréquente de sauvegardes corrompues.
+- Conservez une sauvegarde « propre » que vous ne modifiez jamais, afin d'avoir toujours une solution de repli.
+- Testez les modifications risquées sur une ville secondaire ou un fichier de sauvegarde de rechange lorsque c'est possible.
+- Si le jeu ne se lance pas, restaurez immédiatement au lieu d'essayer une seconde modification par-dessus la première.
+
+## Erreurs courantes et risques liés aux codes d'objets
+
+Les problèmes les plus courants avec les codes d'objets Animal Crossing New Leaf viennent du mélange de données entre jeux ou du fait d'ignorer les indicateurs qui accompagnent un ID.
+
+| Erreur | Résultat probable | Prévention |
+|---|---|---|
+| Utiliser des ID d'un autre titre Animal Crossing | Objet invalide, emplacement bugué ou plantage | Vérifiez que la liste est bien étiquetée pour New Leaf |
+| Ignorer les indicateurs d'objet | L'objet ne peut pas être déposé, vendu ou envoyé par courrier | Copiez les indicateurs avec l'ID |
+| Utiliser une liste obsolète | Entrées Welcome amiibo manquantes | Privilégiez des sources maintenues et datées |
+| Modifier la mauvaise catégorie de données | Ville instable ou sauvegarde illisible | Faites correspondre le type d'ID au bon champ |
+| Sauter les sauvegardes | Perte permanente d'une ville de longue date | Conservez plusieurs sauvegardes hors de l'appareil |
+
+Il vaut aussi la peine d'être honnête sur le contexte global. L'accord d'utilisation de Nintendo décourage la modification des données de sauvegarde, et les fonctionnalités en ligne peuvent être affectées si une sauvegarde se comporte anormalement. L'expérience des joueurs suggère que la voie la plus sûre vers les objets rares reste l'échange, le catalogage via des amis et l'utilisation des méthodes intégrées au jeu. Les codes d'objets sont mieux traités comme un outil de recherche pour les personnes qui comprennent déjà les risques.
+
+## FAQ
+
+### Les codes d'objets Animal Crossing New Leaf sont-ils identiques aux codes de triche ?
+
+Non. Les codes d'objets Animal Crossing New Leaf sont des identifiants de données stockés dans le fichier de sauvegarde, pas des mots de passe à saisir en jeu. Il n'existe aucun menu légitime où l'on peut saisir un code. Ils ne fonctionnent que via des éditeurs de sauvegarde, des outils de mémoire ou l'édition hexadécimale manuelle, ce qui explique pourquoi on en parle généralement avec le modding plutôt qu'avec le jeu normal.
+
+### L'utilisation de codes d'objets peut-elle casser ma ville ou mon fichier de sauvegarde ?
+
+Oui, s'ils sont utilisés sans précaution. Les causes de dommage les plus courantes sont la modification pendant que le jeu tourne, l'application d'ID provenant du mauvais jeu ou de la mauvaise catégorie, et l'absence de sauvegardes. Suivre une routine de sauvegarde stricte et modifier une valeur à la fois réduit considérablement le risque.
+
+### Les codes d'objets d'autres jeux Animal Crossing fonctionnent-ils dans New Leaf ?
+
+En général, non. Chaque titre utilise sa propre organisation interne des données, donc un ID qui pointe vers une chaise spécifique dans un jeu peut ne pointer vers rien du tout, ou vers un objet complètement différent, dans New Leaf. Utilisez toujours des listes explicitement étiquetées pour New Leaf et, idéalement, pour votre version du jeu.
+
+### D'où viennent ces listes d'ID ?
+
+Elles sont compilées par la communauté — projets de datamining, développeurs d'éditeurs de sauvegarde et serveurs Discord dédiés qui vérifient les entrées par rapport à de vraies sauvegardes. Comme elles proviennent de la communauté plutôt que d'une source officielle, considérez toute liste unique comme un point de départ et recoupez les valeurs importantes avant de les appliquer.
