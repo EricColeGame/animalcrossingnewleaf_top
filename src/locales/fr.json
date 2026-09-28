@@ -1,1 +1,496 @@
-{}
+{
+  "site": {
+    "name": "Wiki Animal Crossing New Leaf",
+    "shortName": "Animal Crossing: New Leaf",
+    "tagline": "Habitants, objets, événements et guides de ville",
+    "description": "Un wiki complet sur Animal Crossing: New Leaf couvrant les habitants, les objets, les meubles, les événements, les guides de jeu et les conseils de personnalisation de ville pour les joueurs Nintendo 3DS.",
+    "legalNotice": "Wiki de fans non officiel. Sans affiliation avec Nintendo. Réalisé par des joueurs, pour des joueurs."
+  },
+  "nav": {
+    "home": "Accueil",
+    "menu": "Menu",
+    "toggleTheme": "Changer de thème",
+    "guide": "Guide",
+    "characters": "Habitants",
+    "items": "Objets",
+    "mechanics": "Mécaniques",
+    "maps": "Cartes",
+    "codes": "Codes",
+    "customization": "Personnalisation",
+    "community": "Communauté"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Animal Crossing New Leaf - Habitants, objets et guides",
+      "description": "Explorez le wiki Animal Crossing New Leaf avec des listes complètes d'habitants, des guides de meubles, les événements, les objets, des conseils de personnalisation de ville et des informations de jeu."
+    },
+    "hero": {
+      "eyebrow": "Aventure cosy de simulation de vie",
+      "title": "Wiki Animal Crossing New Leaf",
+      "description": "Un wiki complet sur Animal Crossing New Leaf couvrant les habitants, les objets, les meubles, les événements, les guides de jeu et les conseils de personnalisation de ville pour les joueurs Nintendo 3DS.",
+      "stats": [
+        "Plus de 10 M de joueurs",
+        "Plus de 400 habitants",
+        "0 code actif",
+        "Couverture d'archives"
+      ],
+      "primaryCta": "Guide du débutant",
+      "secondaryCta": "Base de données des habitants",
+      "tertiaryCta": "Jouer sur Nintendo 3DS",
+      "videoLabel": "Bande-annonce officielle"
+    },
+    "updates": {
+      "title": "Dernières mises à jour",
+      "browse": "Voir tous les guides",
+      "viewAll": "Tout voir"
+    },
+    "start": {
+      "eyebrow": "Commencez ici",
+      "title": "Votre aventure dans Animal Crossing New Leaf",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guide du débutant",
+          "description": "Créez votre première ville en toute confiance : les questions de Serge sur le train, les quatre choix de carte, les tâches de Marie à la mairie et la routine du premier jour dont tout nouveau maire a besoin."
+        },
+        {
+          "number": "2",
+          "title": "Gagnez des clochettes vite",
+          "description": "Transformez vos habitudes quotidiennes en revenus réguliers grâce aux ventes au Recyclage, au marché aux navets du dimanche et à la chasse aux scarabées le soir sur l'île Tortimer."
+        },
+        {
+          "number": "3",
+          "title": "Choisissez vos habitants",
+          "description": "Découvrez les 333 habitants, les huit personnalités et les dix parcelles de maison, puis utilisez le camping et les cartes amiibo pour inviter les voisins que vous voulez."
+        },
+        {
+          "number": "4",
+          "title": "Débloquez tout",
+          "description": "Suivez les conditions des boutiques, du café, de la boîte de nuit et des travaux publics pour que la rue commerçante se complète dans le bon ordre au lieu de stagner pendant des mois."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Pages populaires",
+      "title": "Tendances",
+      "quickLinks": [
+        "Guide du débutant",
+        "Liste des habitants",
+        "Poissons et insectes",
+        "Aménagement de la ville"
+      ],
+      "cards": [
+        {
+          "badge": "Débutant",
+          "title": "Guide du débutant",
+          "description": "Les questions de Serge, le choix de la carte, les premières tâches de Marie et la routine du premier jour qui structure toute votre partie.",
+          "href": "/guide/animal-crossing-new-leaf-beginner-guide"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Liste des habitants",
+          "description": "Les 333 habitants avec leur espèce, leur personnalité et les moyens de les inviter via le camping et les amiibo.",
+          "href": "/characters/animal-crossing-new-leaf-all-villagers"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Meubles et séries",
+          "description": "Les séries de meubles, les papiers peints et les sols, avec comment obtenir chaque pièce et la commander depuis le catalogue.",
+          "href": "/items/animal-crossing-new-leaf-furniture"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Guide des poissons",
+          "description": "Saisons, horaires, tailles d'ombre et les prises de grande valeur qui rendent une partie de pêche rentable.",
+          "href": "/mechanics/animal-crossing-new-leaf-fish-guide"
+        },
+        {
+          "badge": "Mis à jour",
+          "title": "Guide des insectes",
+          "description": "Où et quand apparaissent les 72 insectes, ainsi que les scarabées des palmiers qui transforment une soirée d'été en clochettes faciles.",
+          "href": "/mechanics/animal-crossing-new-leaf-bug-guide"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Codes QR",
+          "description": "Scannez des motifs de vêtements, de chemins et de drapeaux avec la machine à coudre des sœurs Able et l'appareil photo de votre 3DS.",
+          "href": "/customization/animal-crossing-new-leaf-qr-codes"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Disposition de la ville",
+          "description": "Comparez la forme de la rivière, l'emplacement du Recyclage et l'accès à la plage avant de choisir une carte.",
+          "href": "/maps/animal-crossing-new-leaf-town-layouts"
+        },
+        {
+          "badge": "Nouveau",
+          "title": "Navets et marché aux navets",
+          "description": "Achetez bas à Porcinet le dimanche, revendez cher au Recyclage en semaine et déchiffrez les schémas de prix qui font le profit.",
+          "href": "/mechanics/animal-crossing-new-leaf-turnips"
+        },
+        {
+          "badge": "Populaire",
+          "title": "Astuces et conseils",
+          "description": "De petites habitudes quotidiennes qui s'additionnent : rochers à clochettes, fouilles de fossiles, courses des habitants et bons horaires de boutiques.",
+          "href": "/guide/animal-crossing-new-leaf-tips"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Qu'est-ce qu'Animal Crossing New Leaf ?",
+      "paragraphs": [
+        "Animal Crossing New Leaf est le jeu de simulation de vie cosy de Nintendo sur Nintendo 3DS. Vous descendez du train en pensant passer des vacances tranquilles et on vous prend aussitôt pour le nouveau maire : vous héritez d'un emprunt immobilier, d'un bureau à la mairie et d'un quartier d'habitants animaux qui se souviennent de tout ce que vous faites.",
+        "Ensuite, la ville grandit à votre rythme : pêchez et attrapez des insectes, donnez vos trouvailles à Thibou au musée, décorez votre maison, plantez des vergers, dessinez des chemins et des vêtements et débloquez les boutiques de la rue commerçante. La mise à jour Welcome amiibo a ensuite ajouté la compatibilité avec les cartes amiibo, le camping et des campeurs invités, si bien qu'une seule partie peut continuer à s'étendre pendant des années."
+      ],
+      "stats": [
+        {
+          "label": "Développeur",
+          "value": "Nintendo"
+        },
+        {
+          "label": "Plateforme",
+          "value": "Nintendo 3DS"
+        },
+        {
+          "label": "Genre",
+          "value": "Simulation de vie"
+        },
+        {
+          "label": "Sortie",
+          "value": "2012"
+        },
+        {
+          "label": "Habitants",
+          "value": "333"
+        },
+        {
+          "label": "Taille de la ville",
+          "value": "10 résidents"
+        }
+      ],
+      "cta": "Explorez tous les guides"
+    },
+    "explore": {
+      "title": "Explorez le wiki Animal Crossing New Leaf",
+      "description": "Tous les aspects d'Animal Crossing New Leaf, de votre premier jour comme maire à la collection d'habitants, l'exploitation de l'île, les motifs personnalisés et les visites de villes en ligne, organisés en huit pôles de guides.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guide du débutant Animal Crossing New Leaf",
+          "description": "Les nouveaux maires commencent ici : les questions de Serge dans le train, le choix parmi quatre cartes, votre premier emprunt immobilier et la routine quotidienne qui fait tourner une ville.",
+          "href": "/guide/animal-crossing-new-leaf-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Répondez aux questions de Serge dans le train, qui déterminent le visage et le sexe de votre personnage ainsi que les quatre cartes proposées."
+            },
+            {
+              "label": "2",
+              "detail": "Choisissez une carte avec la mairie au centre, le Recyclage près d'une rampe de plage, une rivière douce et deux rampes de plage."
+            },
+            {
+              "label": "3",
+              "detail": "Rencontrez Marie à la mairie et accomplissez ses tâches de conseils de vie pour obtenir vos premiers outils."
+            },
+            {
+              "label": "4",
+              "detail": "Ramassez des fruits locaux et des coquillages pour verser à Tom Nook l'acompte de 10 000 clochettes de la tente."
+            },
+            {
+              "label": "5",
+              "detail": "Après votre deuxième emprunt immobilier, Amiral vous emmène sur l'île Tortimer pour chasser les scarabées toute l'année."
+            },
+            {
+              "label": "6",
+              "detail": "Installez une routine : arrosez les fleurs, frappez le rocher à clochettes, déterrez des fossiles et parlez à tous les habitants."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guide des habitants Animal Crossing New Leaf",
+          "description": "Rencontrez les voisins animaux, comprenez les huit types de personnalité et découvrez comment les visiteurs du camping, les cartes amiibo et les demandes de déménagement façonnent votre ville.",
+          "href": "/characters/animal-crossing-new-leaf-villager-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Effectif",
+              "detail": "Il existe 333 habitants animaux, mais seuls dix peuvent vivre en ville en même temps et cinq arrivent au début."
+            },
+            {
+              "label": "Types",
+              "detail": "Huit personnalités régissent chaque conversation, dont Snob et Grande sœur, apparues pour la première fois dans New Leaf."
+            },
+            {
+              "label": "Camping",
+              "detail": "Le camping et les cartes Welcome amiibo vous permettent d'inviter un habitant précis au lieu d'attendre le hasard."
+            },
+            {
+              "label": "Déménagement",
+              "detail": "Les habitants demandent à partir selon un cycle : l'amitié nouée par courrier et courses garde vos préférés en ville."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guide des objets Animal Crossing New Leaf",
+          "description": "Parcourez les séries de meubles, les vêtements, les outils et les objets de collection, avec l'origine de chaque objet et sa place dans votre catalogue.",
+          "href": "/items/animal-crossing-new-leaf-items",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Meubles",
+              "detail": "Les séries de meubles complètes, plus les papiers peints et les sols, avec la distinction entre commandables et non commandables."
+            },
+            {
+              "label": "Vêtements",
+              "detail": "Chemises, robes, chapeaux et accessoires des sœurs Able, y compris les contrôles de mode exigeants de Gracieuse."
+            },
+            {
+              "label": "Outils",
+              "detail": "Les cannes, filets, haches et pelles en argent et en or se débloquent grâce aux dons au musée et aux étapes de la ville."
+            },
+            {
+              "label": "Catalogue",
+              "detail": "Recommandez tout ce que vous avez possédé depuis le catalogue et suivez le stock quotidien renouvelé des boutiques."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guide des poissons et insectes Animal Crossing New Leaf",
+          "description": "Suivez chaque poisson, insecte et prise en plongée selon la saison, l'heure et le lieu, et voyez quelles espèces valent la peine d'être chassées pour les clochettes ou un don au musée.",
+          "href": "/mechanics/animal-crossing-new-leaf-fish-guide",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Le cœlacanthe, le lucane doré et d'autres prises rares qui remplissent une poche de clochettes."
+            },
+            {
+              "label": "A",
+              "detail": "Les requins et les scarabées des palmiers qui financent régulièrement les améliorations de la maison et de la ville."
+            },
+            {
+              "label": "B",
+              "detail": "Les prises courantes de rivière et d'océan qui remplissent le musée tout en finançant les premiers projets."
+            },
+            {
+              "label": "C",
+              "detail": "Les papillons, mites et petits poissons du quotidien, faciles à enregistrer tôt au catalogue."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Codes QR Animal Crossing New Leaf",
+          "description": "Scannez, enregistrez et partagez des motifs personnalisés de vêtements, de chemins et de drapeaux avec la machine à coudre des sœurs Able et l'appareil photo de votre 3DS.",
+          "href": "/customization/animal-crossing-new-leaf-qr-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Motif pro",
+              "detail": "Scannez un motif 32x32 et portez-le comme chemise, robe ou manteau en ville."
+            },
+            {
+              "label": "Motif",
+              "detail": "Enregistrez des motifs standards pour les porter, les poser au sol ou les définir comme drapeau de la ville."
+            },
+            {
+              "label": "Dalle de chemin",
+              "detail": "Posez des motifs de sol scannés pour créer des allées et des places dans toute la ville."
+            },
+            {
+              "label": "Parapluie",
+              "detail": "Portez un motif de parapluie scanné les jours de pluie pour un look personnalisé."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guide amiibo Animal Crossing New Leaf",
+          "description": "Utilisez les figurines amiibo et les cartes Welcome amiibo pour inviter des campeurs invités, gagner des coupons MEOW et débloquer des meubles du camping.",
+          "href": "/characters/animal-crossing-new-leaf-amiibo-villagers",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Welcome",
+              "detail": "La mise à jour Welcome amiibo de 2016 a ajouté à New Leaf le camping, Fantôme et la compatibilité avec les cartes amiibo."
+            },
+            {
+              "label": "Campeurs",
+              "detail": "Scanner une figurine ou une carte fait apparaître un habitant précis au camping pour une visite ou un emménagement."
+            },
+            {
+              "label": "Coupons",
+              "detail": "Les demandes quotidiennes du camping rapportent des coupons MEOW, qui achètent des meubles exclusifs et des objets rares."
+            },
+            {
+              "label": "Figurines",
+              "detail": "Les campeurs invités comme Epona, Inkwell et Ganon n'apparaissent qu'avec leur amiibo correspondant."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guide d'aménagement de ville Animal Crossing New Leaf",
+          "description": "Planifiez chemins, ponts, travaux publics, arrêtés et façades de maisons pour que votre ville reste praticable et facile à décorer.",
+          "href": "/maps/animal-crossing-new-leaf-town-layouts",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Travaux publics",
+              "detail": "Les travaux publics ajoutent ponts, bancs, lampadaires et cafés, chacun coûtant 20 000 clochettes ou plus."
+            },
+            {
+              "label": "Arrêtés",
+              "detail": "Ville fleurie, Lève-tôt, Oiseau de nuit et Boom des clochettes transforment chacun le fonctionnement de votre ville."
+            },
+            {
+              "label": "Chemins",
+              "detail": "Posez des motifs de sol ou laissez des sentiers de terre naturels pour guider les pas et protéger l'herbe."
+            },
+            {
+              "label": "Façades",
+              "detail": "L'Immobilier Nook vend toits, portes, clôtures et boîtes aux lettres pour personnaliser l'extérieur de votre maison."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guide multijoueur Animal Crossing New Leaf",
+          "description": "Visitez les villes de vos amis en local ou en ligne, parcourez des adresses de rêve et explorez ensemble l'île Tortimer avec ses mini-jeux et ses prises rares.",
+          "href": "/maps/animal-crossing-new-leaf-dream-suite",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Ouvrez les portes de la gare pour que vos amis en local ou en ligne puissent venir dans votre ville."
+            },
+            {
+              "label": "2",
+              "detail": "Enregistrez les codes ami de la 3DS, puis promouvez les joueurs de confiance au rang de Meilleur ami pour faciliter les visites répétées."
+            },
+            {
+              "label": "3",
+              "detail": "Accueillez ou visitez une ville pour acheter, visiter et échanger, tandis que l'hôte contrôle qui peut circuler."
+            },
+            {
+              "label": "4",
+              "detail": "Embarquez avec Amiral vers l'île Tortimer pour des excursions en groupe, des insectes rares et des requins."
+            },
+            {
+              "label": "5",
+              "detail": "Publiez une adresse de rêve à l'Institut des rêves pour que chacun puisse visiter une copie sûre de votre ville."
+            },
+            {
+              "label": "6",
+              "detail": "Convenez de règles avant la visite pour protéger les fleurs, les motifs et les habitants."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Questions fréquentes",
+      "description": "Des réponses rapides aux questions les plus courantes sur Animal Crossing New Leaf.",
+      "items": [
+        {
+          "question": "Qu'est-ce qu'Animal Crossing New Leaf ?",
+          "answer": "Animal Crossing New Leaf est un jeu de simulation de vie de Nintendo sur Nintendo 3DS. Vous arrivez dans une petite ville, on vous prend pour son nouveau maire, et vous passez votre temps à pêcher, attraper des insectes, décorer votre maison, vous lier d'amitié avec les habitants animaux et développer la ville à votre rythme."
+        },
+        {
+          "question": "Comment gagner des clochettes rapidement dans Animal Crossing New Leaf ?",
+          "answer": "Vendez fruits, poissons et insectes au Recyclage, puis débloquez l'île Tortimer pour chasser scarabées et requins toute l'année. Le marché aux navets du dimanche et le rocher à clochettes quotidien sont aussi des revenus fiables dans Animal Crossing New Leaf une fois le bon timing maîtrisé."
+        },
+        {
+          "question": "Quels habitants peuvent vivre dans ma ville d'Animal Crossing New Leaf ?",
+          "answer": "Animal Crossing New Leaf compte 333 habitants animaux répartis en huit types de personnalité, mais seuls dix peuvent vivre en ville en même temps et cinq arrivent au début. Le camping et les cartes Welcome amiibo vous permettent d'inviter des voisins précis au lieu d'attendre le hasard."
+        },
+        {
+          "question": "Animal Crossing New Leaf a-t-il des codes à échanger ?",
+          "answer": "Non. Animal Crossing New Leaf n'a pas de système d'échange de codes en jeu, et les identifiants d'objets ne fonctionnent qu'avec des éditeurs de sauvegarde qui peuvent mettre votre ville en danger. Les raccourcis pratiques sont les cartes et figurines amiibo, qui font venir habitants et objets du camping entièrement hors ligne."
+        },
+        {
+          "question": "Comment visiter d'autres villes dans Animal Crossing New Leaf ?",
+          "answer": "Ouvrez les portes de la gare pour inviter des amis en local ou en ligne, ajoutez des Meilleurs amis pour faciliter les visites répétées et embarquez avec Amiral vers l'île Tortimer. L'Institut des rêves vous permet aussi de publier une copie de votre ville d'Animal Crossing New Leaf pour que chacun la visite."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Prêt à commencer votre aventure Animal Crossing New Leaf ?",
+      "description": "De votre premier jour comme maire à une ville entièrement décorée, notre wiki communautaire vous accompagne avec des guides gratuits et à jour sur les habitants, les objets et la ville.",
+      "primary": "Lire le guide du débutant",
+      "secondary": "Jouer sur Nintendo 3DS"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guide Animal Crossing New Leaf",
+    "overviewDescription": "Commencez la vie en ville du bon pied avec des parcours pour débutants, des astuces quotidiennes, les chemins de déblocage et des conseils d'apparence pour Animal Crossing: New Leaf."
+  },
+  "characters": {
+    "overviewTitle": "Habitants d'Animal Crossing New Leaf",
+    "overviewDescription": "Rencontrez tous les habitants, comparez les types de personnalité et trouvez vos voisins préférés avec nos guides de personnages Animal Crossing: New Leaf."
+  },
+  "items": {
+    "overviewTitle": "Objets d'Animal Crossing New Leaf",
+    "overviewDescription": "Parcourez les séries de meubles, les outils en or et les objets de collection avec nos guides d'objets et de meubles Animal Crossing: New Leaf."
+  },
+  "mechanics": {
+    "overviewTitle": "Mécaniques d'Animal Crossing New Leaf",
+    "overviewDescription": "Maîtrisez la pêche, la chasse aux insectes, la plongée, les navets, l'hybridation des fleurs et les arrêtés avec nos guides de mécaniques Animal Crossing: New Leaf."
+  },
+  "maps": {
+    "overviewTitle": "Cartes d'Animal Crossing New Leaf",
+    "overviewDescription": "Planifiez la ville parfaite avec des comparaisons de disposition, les façades de maisons et des astuces de l'Institut des rêves pour Animal Crossing: New Leaf."
+  },
+  "codes": {
+    "overviewTitle": "Codes d'Animal Crossing New Leaf",
+    "overviewDescription": "Trouvez des codes d'objets et apprenez à les échanger dans Animal Crossing: New Leaf."
+  },
+  "customization": {
+    "overviewTitle": "Personnalisation d'Animal Crossing New Leaf",
+    "overviewDescription": "Sublimez votre maire avec des guides de coiffure, de visage et de tenue, ainsi que des codes QR et des motifs de chemins pour Animal Crossing: New Leaf."
+  },
+  "community": {
+    "overviewTitle": "Communauté d'Animal Crossing New Leaf",
+    "overviewDescription": "Rejoignez la communauté Animal Crossing: New Leaf sur Reddit et Discord pour échanger, partager vos villes et obtenir de l'aide."
+  },
+  "shared": {
+    "wikiNavigation": "Navigation du wiki",
+    "activeCodes": "Codes actifs",
+    "updated": "Mis à jour",
+    "viewAllCodes": "Voir tous les codes",
+    "playOnRoblox": "Jouer sur Roblox",
+    "inThisSection": "Dans cette section",
+    "tableOfContents": "Sommaire",
+    "nextSteps": "Étapes suivantes",
+    "needHelp": "Besoin d'aide ?",
+    "relatedReading": "Lectures liées",
+    "relatedGuides": "Guides liés",
+    "readMore": "Lire la suite",
+    "officialMedia": "Médias officiels",
+    "home": "Accueil",
+    "noGuidesAvailable": "Aucun guide disponible pour l'instant. Revenez bientôt !"
+  },
+  "footer": {
+    "aboutTitle": "Wiki Animal Crossing New Leaf",
+    "about": "Wiki Animal Crossing New Leaf est un centre de guides indépendant créé par des fans, couvrant les habitants, les objets, les meubles, les événements, l'aménagement de la ville et les connaissances essentielles du jeu, pour les nouveaux joueurs comme les vétérans.",
+    "quickLinks": "Liens rapides",
+    "guides": "Guides",
+    "legal": "Mentions légales",
+    "copyright": "2026 Wiki Animal Crossing New Leaf. Sans affiliation avec Nintendo.",
+    "description": "Simulation de vie cosy sur Nintendo 3DS. Habitants, objets, événements et guides de ville.",
+    "playGame": "Visiter le site officiel de Nintendo",
+    "officialDiscord": "Communauté r/AnimalCrossing",
+    "officialYoutube": "YouTube officiel de Nintendo",
+    "vvBuilder": "Nookipedia (wiki AC)",
+    "beginnerGuide": "Guide du débutant",
+    "characterGuides": "Guides des habitants",
+    "itemGuides": "Guides des objets",
+    "mechanicGuides": "Mécaniques de jeu",
+    "privacyPolicy": "Politique de confidentialité",
+    "termsOfService": "Conditions d'utilisation"
+  }
+}
