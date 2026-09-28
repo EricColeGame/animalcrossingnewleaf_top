@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Set up your first town with confidence: Rover's train questions, the four map choices, Isabelle's town hall tasks, and the day-one routine every new mayor needs."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Make Bells Fast",
+          "description": "Turn daily habits into steady income with Re-Tail selling runs, the Sunday turnip stalk market, and evening beetle hunting on Tortimer Island."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Pick Your Villagers",
+          "description": "Understand the 333 villagers, the eight personalities, and the ten house plots, then use the campsite and amiibo cards to invite the neighbors you want."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Animal Crossing New Leaf."
+          "title": "Unlock Everything",
+          "description": "Follow the shop, cafe, nightclub, and Public Works Project requirements so Main Street fills in the right order instead of stalling for months."
         }
       ]
     },
@@ -66,237 +66,319 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Villager List",
+        "Fish & Bugs",
+        "Town Design"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Rover's questions, map choice, Isabelle's first tasks, and the day-one routine that sets up your whole save.",
+          "href": "/guide/animal-crossing-new-leaf-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Villager List",
+          "description": "Every one of the 333 villagers with species, personality, and the campsite and amiibo routes to invite them.",
+          "href": "/characters/animal-crossing-new-leaf-all-villagers"
+        },
+        {
+          "badge": "Popular",
+          "title": "Furniture & Sets",
+          "description": "Furniture series, wallpapers, and floorings with how to collect each piece and reorder it from the catalog.",
+          "href": "/items/animal-crossing-new-leaf-furniture"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Fish Guide",
+          "description": "Seasons, times, shadow sizes, and the high-value catches that make a fishing trip worth the walk.",
+          "href": "/mechanics/animal-crossing-new-leaf-fish-guide"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Bug Guide",
+          "description": "Where and when all 72 bugs appear, plus the palm-tree beetles that turn a summer evening into easy Bells.",
+          "href": "/mechanics/animal-crossing-new-leaf-bug-guide"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "QR Codes",
+          "description": "Scan clothing, path, and flag designs with the Able Sisters sewing machine and your 3DS camera.",
+          "href": "/customization/animal-crossing-new-leaf-qr-codes"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Town Layouts",
+          "description": "Compare river shapes, Re-Tail placement, and beach access before you commit to a map.",
+          "href": "/maps/animal-crossing-new-leaf-town-layouts"
+        },
+        {
+          "badge": "New",
+          "title": "Turnips & Stalk Market",
+          "description": "Buy low from Joan on Sunday, sell high at Re-Tail during the week, and read the price patterns that drive profit.",
+          "href": "/mechanics/animal-crossing-new-leaf-turnips"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Tips & Tricks",
+          "description": "Small daily habits that add up: money rocks, fossil digs, villager errands, and smart shop timing.",
+          "href": "/guide/animal-crossing-new-leaf-tips"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Animal Crossing New Leaf?",
       "paragraphs": [
-        "Animal Crossing New Leaf is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Animal Crossing New Leaf is Nintendo's cozy life-simulation game for the Nintendo 3DS. You step off the train expecting a quiet vacation and are immediately mistaken for the new mayor, inheriting a house loan, a desk at Town Hall, and a neighborhood of animal villagers who remember everything you do.",
+        "From there the town grows at your own pace: fish and catch bugs, donate finds to Blathers at the museum, decorate your home, plant orchards, design paths and clothing, and unlock shops along Main Street. The Welcome amiibo update later added amiibo card support, the campground, and crossover campers, so a single save file can keep expanding for years."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Nintendo"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Nintendo 3DS"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Life Simulation"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Released",
+          "value": "2012"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Villagers",
+          "value": "333"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Town Size",
+          "value": "10 Residents"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Animal Crossing New Leaf Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every part of Animal Crossing New Leaf, from your first day as mayor to villager collecting, island farming, custom designs, and online town visits, organized into eight guide hubs.",
       "modules": [
         {
           "order": 1,
-          "name": "Animal Crossing New Leaf Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/animal-crossing-new-leaf-codes",
-          "displayType": "code-box",
+          "name": "Animal Crossing New Leaf Beginner Guide",
+          "description": "New mayors start here: Rover's train questions, choosing one of four town maps, your first house loan, and the daily routine that keeps a town running.",
+          "href": "/guide/animal-crossing-new-leaf-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Answer Rover's train questions, which set your character's face, gender, and the four town maps he offers."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Pick a map with a central Town Hall, Re-Tail near a beach ramp, a gentle river, and two beach ramps."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Meet Isabelle at Town Hall and work through her living advice tasks to earn your first tools."
+            },
+            {
+              "label": "4",
+              "detail": "Gather native fruit and shells to pay the 10,000 Bell tent down payment to Tom Nook."
+            },
+            {
+              "label": "5",
+              "detail": "After your second home loan, Kapp'n ferries you to Tortimer Island for year-round beetle farming."
+            },
+            {
+              "label": "6",
+              "detail": "Settle into a routine: water flowers, hit the money rock, dig fossils, and talk to every villager."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/animal-crossing-new-leaf-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Animal Crossing New Leaf Villagers Guide",
+          "description": "Meet the animal neighbors, understand the eight personality types, and learn how campsite visitors, amiibo cards, and move-out requests shape your roster.",
+          "href": "/characters/animal-crossing-new-leaf-villager-guide",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Roster",
+              "detail": "333 animal villagers exist, but only ten can live in town at once and five arrive when you start."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Types",
+              "detail": "Eight personalities drive every conversation, including Smug and Uchi, which both debuted in New Leaf."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Camping",
+              "detail": "The campsite and Welcome amiibo cards let you invite a specific villager instead of waiting on chance."
+            },
+            {
+              "label": "Moving",
+              "detail": "Villagers ask to leave on a cycle, so friendship built through mail and errands keeps favorites in town."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/animal-crossing-new-leaf-tier-list",
-          "displayType": "tier-grid",
+          "name": "Animal Crossing New Leaf Items Guide",
+          "description": "Browse furniture sets, clothing, tools, and collectibles, with notes on where each item comes from and how it fits into your catalog.",
+          "href": "/items/animal-crossing-new-leaf-items",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Furniture",
+              "detail": "Full furniture series plus wallpapers and floorings, with the orderable and unorderable split explained."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Clothing",
+              "detail": "Shirts, dresses, hats, and accessories from Able Sisters, including premium Gracie fashion checks."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Tools",
+              "detail": "Silver and Golden rods, nets, axes, and shovels unlock through museum donations and town milestones."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Catalog",
+              "detail": "Re-order anything you have owned from the catalog and track the daily rotating shop stock."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/animal-crossing-new-leaf-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Animal Crossing New Leaf Fish and Bugs Guide",
+          "description": "Track every fish, bug, and diving catch by season, time, and location, and see which species are worth chasing for Bells or a museum donation.",
+          "href": "/mechanics/animal-crossing-new-leaf-fish-guide",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Coelacanth, Golden Stag, and other rare catches that anchor a full pocket of Bells."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Sharks and palm-tree beetles that reliably pay for house and town upgrades."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Common river and ocean catches that fill the museum while funding early projects."
+            },
+            {
+              "label": "C",
+              "detail": "Everyday butterflies, moths, and small fish that are easy early catalog entries."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/animal-crossing-new-leaf-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Animal Crossing New Leaf QR Codes",
+          "description": "Scan, save, and share custom designs for clothing, paths, and town flags using the Able Sisters sewing machine and your 3DS camera.",
+          "href": "/customization/animal-crossing-new-leaf-qr-codes",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Pro Design",
+              "detail": "Scan a 32x32 pattern and wear it as a shirt, dress, or coat around town."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Pattern",
+              "detail": "Save standard patterns to wear, drop as ground decor, or set as the town flag."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Path Tile",
+              "detail": "Place scanned ground patterns to build walkways and plazas across your town."
+            },
+            {
+              "label": "Umbrella",
+              "detail": "Carry a scanned umbrella design on rainy days for a custom look."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/animal-crossing-new-leaf-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Animal Crossing New Leaf Amiibo Guide",
+          "description": "Use amiibo figures and Welcome amiibo cards to invite crossover campers, earn MEOW Coupons, and unlock campground furniture.",
+          "href": "/characters/animal-crossing-new-leaf-amiibo-villagers",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Welcome",
+              "detail": "The 2016 Welcome amiibo update added the campground, Wisp, and amiibo card support to New Leaf."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Campers",
+              "detail": "Scanning a figure or card summons a specific villager to the campground to visit or move in."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Coupons",
+              "detail": "Daily campground requests pay MEOW Coupons, which buy exclusive furniture and rare items."
+            },
+            {
+              "label": "Figures",
+              "detail": "Crossover campers such as Epona, Inkwell, and Ganon appear only through their matching amiibo."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Animal Crossing New Leaf Town Design Guide",
+          "description": "Plan paths, bridges, Public Works Projects, ordinances, and house exteriors so your layout stays walkable and easy to decorate.",
+          "href": "/maps/animal-crossing-new-leaf-town-layouts",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PWPs",
+              "detail": "Public Works Projects add bridges, benches, lamps, and cafes, each costing 20,000 Bells or more."
+            },
+            {
+              "label": "Ordinances",
+              "detail": "Beautiful Town, Early Bird, Night Owl, and Bell Boom each reshape how your town runs."
+            },
+            {
+              "label": "Paths",
+              "detail": "Lay ground patterns or wear natural dirt paths to guide foot traffic and protect the grass."
+            },
+            {
+              "label": "Exteriors",
+              "detail": "Nook's Homes sells roofs, doors, fences, and mailboxes to customize your house outside."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Animal Crossing New Leaf Multiplayer Guide",
+          "description": "Visit friends' towns locally or online, tour dream addresses, and explore Tortimer Island together with minigames and rare catches.",
+          "href": "/maps/animal-crossing-new-leaf-dream-suite",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Open the train station gates so local or online friends can travel into your town."
+            },
+            {
+              "label": "2",
+              "detail": "Register 3DS friend codes, then promote trusted players to Best Friend for easy repeat visits."
+            },
+            {
+              "label": "3",
+              "detail": "Host or visit a town to shop, tour, and trade while the host controls who may roam."
+            },
+            {
+              "label": "4",
+              "detail": "Sail with Kapp'n to Tortimer Island for group tours, rare bugs, and sharks."
+            },
+            {
+              "label": "5",
+              "detail": "Upload a Dream Address at the Dream Suite so anyone can tour a safe snapshot of your town."
+            },
+            {
+              "label": "6",
+              "detail": "Agree on ground rules before visiting so flowers, patterns, and villagers stay safe."
             }
           ]
         }
@@ -308,23 +390,23 @@
       "items": [
         {
           "question": "What is Animal Crossing New Leaf?",
-          "answer": "Animal Crossing New Leaf is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Animal Crossing New Leaf is a life-simulation game from Nintendo for the Nintendo 3DS. You arrive in a small town, are mistaken for its new mayor, and spend your time fishing, catching bugs, decorating your home, befriending animal villagers, and building up the town at your own pace."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I make Bells quickly in Animal Crossing New Leaf?",
+          "answer": "Sell fruit, fish, and bugs at Re-Tail, then unlock Tortimer Island for year-round beetle and shark farming. The Sunday turnip stalk market and the daily money rock are also reliable Animal Crossing New Leaf income once you learn the timing."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which villagers can live in my Animal Crossing New Leaf town?",
+          "answer": "Animal Crossing New Leaf has 333 animal villagers across eight personality types, but only ten can live in town at once and five arrive at the start. The campsite and Welcome amiibo cards let you invite specific neighbors instead of waiting on chance."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Animal Crossing New Leaf have redeem codes?",
+          "answer": "No. Animal Crossing New Leaf has no in-game code redemption system, and item IDs only work through save editors that can put your town at risk. The practical shortcuts are amiibo cards and figures, which summon villagers and campground items entirely offline."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How do I visit other towns in Animal Crossing New Leaf?",
+          "answer": "Open the train station gates to invite friends locally or online, add Best Friends for easy repeat visits, and sail to Tortimer Island with Kapp'n. The Dream Suite also lets you upload an Animal Crossing New Leaf town snapshot for anyone to tour."
         }
       ]
     },
