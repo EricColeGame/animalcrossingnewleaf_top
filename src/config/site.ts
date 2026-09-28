@@ -32,6 +32,6 @@ export const siteConfig: SiteConfig = {
     discord: "https://www.reddit.com/r/AnimalCrossing/",
     youtube: "https://www.youtube.com/@NintendoAmerica",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "fr"],
   defaultLocale: "en",
 };
